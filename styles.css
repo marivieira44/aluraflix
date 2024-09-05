@@ -1,6 +1,10 @@
 body{
     color:rgb(50, 135, 232);
     background: rgb(245, 244, 244);
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
